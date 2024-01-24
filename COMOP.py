@@ -15,10 +15,10 @@ roles = ["Roadmaper", "Scrib", "Time keeper", "Pousse décision", "Meta"]
 # Application Streamlit
 st.title("Attribution des rôles pour la réunion COMOP")
 
-# Case à cocher pour chaque participant
+# Case à cocher pour chaque participant, cochée par défaut
 selected_participants = []
 for participant in participants:
-    if st.checkbox(participant, key=participant):
+    if st.checkbox(participant, key=participant, value=True):
         selected_participants.append(participant)
 
 # Bouton pour attribuer les rôles
