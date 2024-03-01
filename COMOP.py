@@ -6,7 +6,7 @@ participants = [
     "Rania AMORIM", "Sana AZIAR", "Mérouane BEGHDADI", "Rosanna CHADOIN",
     "Arthur CHEN", "Doriane CRISPIN", "Seddik HADJI", "Nathan HATTE",
     "Jean Sébastien HILBERT", "Patrick HUET", "Justine JOLLY", "Berengère KALASZ",
-    "Laetitia MINIEN", "Vincent PERLIN", "Oumou SANOGO", "Hélène SAUZEAU"
+    "Laetitia MINIEN", "Vincent PERLIN", "Oumou SANOGO", "Hélène SAUZEAU" , "CIROTTEAU Axel"
 ]
 
 # Rôles à attribuer
