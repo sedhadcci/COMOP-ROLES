@@ -6,7 +6,7 @@ participants = [
     "Rania AMORIM", "Sana AZIAR", "Mérouane BEGHDADI", "Rosanna CHADOIN",
     "Arthur CHEN", "Doriane CRISPIN", "Seddik HADJI", "Nathan HATTE",
     "Jean Sébastien HILBERT", "Patrick HUET", "Justine JOLLY", "Berengère KALASZ",
-    "Laetitia MINIEN", "Vincent PERLIN", "Oumou SANOGO", "Hélène SAUZEAU" , "CIROTTEAU Axel"
+    "MOUTON Benoit", "Vincent PERLIN", "Oumou SANOGO", "Hélène SAUZEAU" , "CIROTTEAU Axel"
 ]
 
 # Rôles à attribuer
@@ -24,7 +24,7 @@ def assign_roles(participants, roles):
     if "Nathan HATTE" in participants and random.random() < 0.99:
         meta_role = "Nathan HATTE"
     else:
-        meta_candidates = [p for p in ["Laetitia MINIEN", "Arthur CHEN"] if p in participants]
+        meta_candidates = [p for p in ["MOUTON Benoit", "Arthur CHEN"] if p in participants]
         meta_role = random.choice(meta_candidates) if meta_candidates else None
 
     # Exclure le participant du rôle 'Meta' et 'Seddik HADJI' pour les autres rôles
