@@ -3,10 +3,8 @@ import random
 
 # Liste des participants avec le nom mis à jour
 participants = [
-    "Rania AMORIM", "Sana AZIAR", "Mérouane BEGHDADI", "Rosanna CHADOIN",
-    "Arthur CHEN", "Doriane CRISPIN", "Seddik HADJI", "Nathan HATTE",
-    "Jean Sébastien HILBERT", "Patrick HUET", "Justine JOLLY", "Berengère KALASZ",
-    "MOUTON Benoit", "Vincent PERLIN", "Oumou SANOGO", "Hélène SAUZEAU" , "CIROTTEAU Axel"
+ "Sana AZIAR", "Arthur CHEN", "Doriane CRISPIN", "Seddik HADJI", "Nathan HATTE",
+    "Jean Sébastien HILBERT", "Justine JOLLY",  "MOUTON Benoit", "Vincent PERLIN",  "Hélène SAUZEAU" , "CIROTTEAU Axel"
 ]
 
 # Rôles à attribuer
