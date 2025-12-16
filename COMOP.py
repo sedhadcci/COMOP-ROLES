@@ -3,7 +3,7 @@ import random
 
 # Liste des participants avec le nom mis à jour
 participants = [
- "Sana AZIAR", "Arthur CHEN", "Doriane CRISPIN", "Seddik HADJI", "Nathan HATTE",
+ "Sana AZIAR", "Arthur CHEN", "Doriane CRISPIN", "Seddik HADJI", "Nathan HATTE", "Papa SARRE",
     "Jean Sébastien HILBERT", "Justine JOLLY",  "MOUTON Benoit", "Vincent PERLIN",  "Hélène SAUZEAU" , "CIROTTEAU Axel"
 ]
 
